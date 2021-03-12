@@ -3,7 +3,7 @@
 
 ### 😄 - Who am I
 
-A web programmer
+A WebGIS programmer
 
 ### 🛠 Tech Stack
 
