@@ -22,8 +22,8 @@ A WebGIS programmer
 
 ### 💬 - Some about Me
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=danvic712&show_icons=true&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danvic712&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jiegiser&show_icons=true&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiegiser&layout=compact)
 
 ### 🌱 - Where to find Me
 
