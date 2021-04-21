@@ -39,3 +39,4 @@ A WebGIS programmer
 |  csdn  | [https://blog.csdn.net/cj9551](https://blog.csdn.net/cj9551) |
 
 
+> 最近在找工作，有大佬看上我的，可以联系我。期望岗位 webgis 开发；地点：成都
