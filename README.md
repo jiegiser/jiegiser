@@ -39,4 +39,4 @@ A WebGIS programmer
 |  csdn  | [https://blog.csdn.net/cj9551](https://blog.csdn.net/cj9551) |
 
 
-> 最近打算换工作，有坑位，可以联系我。期望岗位 webgis 开发；地点：成都
+> 最近打算换工作，有坑位，可以联系我（qq: 616251664）。期望岗位 webgis 开发；地点：成都
