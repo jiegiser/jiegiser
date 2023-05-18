@@ -11,7 +11,7 @@ A WebGIS programmer
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/npm/types/typescript)
-![Vue](https://img.shields.io/badge/-Vue-%232C3A42?style=flat-square&logo=Vue)
+![Vue](https://img.shields.io/badge/-Vue-%232C3A42?style=flat-square&logo=vue)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-%232C3A42?style=flat-square&logo=Angular)
 ![Electron](https://img.shields.io/badge/-Angular-%232C3A42?style=flat-square&logo=electron)
