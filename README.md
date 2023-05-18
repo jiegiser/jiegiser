@@ -14,7 +14,8 @@ A WebGIS programmer
 ![Vue](https://img.shields.io/badge/-Vue-%232C3A42?style=flat-square&logo=vue)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-%232C3A42?style=flat-square&logo=Angular)
-![Electron](https://img.shields.io/badge/-Angular-%232C3A42?style=flat-square&logo=electron)
+![Electron](https://img.shields.io/badge/-electron-%232C3A42?style=flat-square&logo=electron)
+
 ![WebGL](https://img.shields.io/badge/-WebGL-%23990000?style=flat-square&logo=webgl&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Cesium](https://img.shields.io/badge/-Cesium-%232C3A42?style=flat-square&logo=Cesium)
